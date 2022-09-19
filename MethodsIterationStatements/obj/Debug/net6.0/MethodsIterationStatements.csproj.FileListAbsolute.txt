@@ -1,0 +1,15 @@
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\bin\Debug\net6.0\MethodsIterationStatements.exe
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\bin\Debug\net6.0\MethodsIterationStatements.deps.json
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\bin\Debug\net6.0\MethodsIterationStatements.runtimeconfig.json
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\bin\Debug\net6.0\MethodsIterationStatements.dll
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\bin\Debug\net6.0\MethodsIterationStatements.pdb
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.csproj.AssemblyReference.cache
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.AssemblyInfoInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.AssemblyInfo.cs
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.dll
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\refint\MethodsIterationStatements.dll
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.pdb
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\MethodsIterationStatements.genruntimeconfig.cache
+C:\Users\jusdaboiz\Desktop\Repos\MethodsIterationStatements\MethodsIterationStatements\obj\Debug\net6.0\ref\MethodsIterationStatements.dll
